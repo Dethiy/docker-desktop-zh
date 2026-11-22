@@ -1,0 +1,10 @@
+tools/
+node_modules/
+backup/
+*.orig
+*.bak
+.asar.unpacked/
+shot-boot.png
+shot-cn.png
+shot-cn2.png
+shot-containers.png
